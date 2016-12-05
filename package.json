@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-less-bs-less",
-  "version": "1.0.0",
+  "name": "chay22/bootstrap-less",
+  "version": "3.3.7",
   "description": "",
   "main": "bootstrap.less",
   "style": "bootstrap.less",

@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-less-bs-less",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.less",
+  "style": "bootstrap.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chay22/bootstrap-less.git"
+  },
+  "author": "",
+  "license": "https://raw.githubusercontent.com/twbs/bootstrap/master/LICENSE",
+  "homepage": "http://getbootstrap.com/"
+}
